@@ -14,5 +14,9 @@
         "VtorBatista.saleforce-easy-help",
         "salesforce.salesforcedx-vscode-apex",
         "ZainChen.json"
-    ]
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Vitor-batista/extension-pack-sac"
+    }
 }
