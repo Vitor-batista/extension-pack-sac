@@ -11,12 +11,36 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "VtorBatista.saleforce-easy-help",
         "salesforce.salesforcedx-vscode-apex",
-        "ZainChen.json"
+        "salesforce.salesforcedx-vscode-apex-debugger",
+        "salesforce.salesforcedx-vscode-apex-replay-debugger",
+        "salesforce.salesforcedx-vscode-lightning",
+        "salesforce.salesforcedx-vscode-lwc",
+        "salesforce.salesforcedx-vscode-core",
+        "salesforce.salesforce-vscode-slds",
+        "salesforce.salesforcedx-vscode-soql",
+        "salesforce.salesforcedx-vscode-visualforce",
+        "RohanGore.schema-explorer",
+        "modicatech.apex-code-coverage-visualizer",
+        "Kanko.aura-helper",
+        "in4margaret.compareit",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "HugoOM.sfdx-autoheader",
+        "chuckjonas.apex-autocomplete",
+        "drossi750.vscode-salesforce-toolkit"
     ],
     "repository": {
       "type": "git",
       "url": "https://github.com/Vitor-batista/extension-pack-sac"
-    }
+    },
+    "keywords": [
+        "SAC",
+        "Step",
+        "StepAhead",
+        "StepAheadConsulting",
+        "Extension Pack",
+        "Extension Pack Sac"
+    ]
 }
