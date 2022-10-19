@@ -3,7 +3,7 @@
     "displayName": "Extension Pack SAC",
     "publisher": "VtorBatista",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.72.0"
     },
@@ -32,8 +32,8 @@
         "drossi750.vscode-salesforce-toolkit"
     ],
     "repository": {
-      "type": "git",
-      "url": "https://github.com/Vitor-batista/extension-pack-sac"
+        "type": "git",
+        "url": "https://github.com/Vitor-batista/extension-pack-sac"
     },
     "keywords": [
         "SAC",
