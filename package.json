@@ -29,7 +29,9 @@
         "eamodio.gitlens",
         "HugoOM.sfdx-autoheader",
         "chuckjonas.apex-autocomplete",
-        "drossi750.vscode-salesforce-toolkit"
+        "drossi750.vscode-salesforce-toolkit",
+        "GabrielZambrin.zambra-s-snippets",
+        "VtorBatista.saleforce-easy-help"
     ],
     "repository": {
         "type": "git",
